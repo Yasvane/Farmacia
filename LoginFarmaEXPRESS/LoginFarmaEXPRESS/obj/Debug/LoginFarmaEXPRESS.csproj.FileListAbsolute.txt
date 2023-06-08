@@ -1,0 +1,14 @@
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\bin\Debug\LoginFarmaEXPRESS.exe
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\bin\Debug\LoginFarmaEXPRESS.pdb
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csproj.AssemblyReference.cache
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Admin.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Form1.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Properties.Resources.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Usuario.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csproj.GenerateResource.cache
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csproj.CoreCompileInputs.cache
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.exe
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.pdb
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Frminicio.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash.resources
+C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash2.resources
