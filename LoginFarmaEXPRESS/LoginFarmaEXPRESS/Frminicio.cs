@@ -47,5 +47,27 @@ namespace LoginFarmaEXPRESS
             formulario.Dock = DockStyle.Fill;
             formulario.Show();
         }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void provedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+             panel1.Visible = true;
+             Proveedor formulario = new Proveedor();
+
+            // Establecer el TopLevel en false
+            //formulario.TopLevel = false;
+
+            //// Establecer el Parent al Panel
+            //panel1.Controls.Add(formulario);
+
+            //// Ajustar las propiedades del formulario secundario
+            //formulario.Dock = DockStyle.Fill;
+            formulario.Show();
+        }
+        
     }
 }

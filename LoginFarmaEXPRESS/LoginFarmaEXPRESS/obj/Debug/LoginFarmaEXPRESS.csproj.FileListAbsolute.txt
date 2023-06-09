@@ -26,3 +26,4 @@ C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\ob
 C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash2.resources
 C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Usuario.resources
 C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csproj.GenerateResource.Cache
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Proveedor.resources
