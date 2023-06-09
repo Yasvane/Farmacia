@@ -15,7 +15,7 @@ namespace LoginFarmaEXPRESS
                             ";Initial Catalog=farmacia" +
                             "; Integrated Security = True");
 
-            cn.Open();
+            cn.Close();
             return cn;
         }
     }

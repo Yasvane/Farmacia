@@ -11,10 +11,15 @@ namespace LoginFarmaEXPRESS
 {
     public partial class Admin : Form
     {
-        public Admin(string nombre)
+        public Admin()
         {
             InitializeComponent();
-            lblmensajeAmin.Text = nombre;
+           
+        }
+
+        private void Admin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

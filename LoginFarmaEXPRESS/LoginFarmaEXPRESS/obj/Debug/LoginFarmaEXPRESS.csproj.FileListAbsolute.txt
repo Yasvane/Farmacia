@@ -12,3 +12,17 @@ C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debu
 C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Frminicio.resources
 C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash.resources
 C:\Users\Yasir Vanegas\source\repos\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash2.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\bin\Debug\LoginFarmaEXPRESS.exe.config
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.exe
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.pdb
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\bin\Debug\LoginFarmaEXPRESS.exe
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\bin\Debug\LoginFarmaEXPRESS.pdb
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csprojResolveAssemblyReference.cache
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Admin.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Form1.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Frminicio.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Properties.Resources.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Splash2.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.Usuario.resources
+C:\Users\CBSHOP\Desktop\Faemacia\Farmacia\LoginFarmaEXPRESS\LoginFarmaEXPRESS\obj\Debug\LoginFarmaEXPRESS.csproj.GenerateResource.Cache

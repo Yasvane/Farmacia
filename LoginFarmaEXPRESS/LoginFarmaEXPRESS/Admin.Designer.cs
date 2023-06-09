@@ -36,29 +36,33 @@ namespace LoginFarmaEXPRESS
             // lblmensajeAmin
             // 
             this.lblmensajeAmin.AutoSize = true;
-            this.lblmensajeAmin.Location = new System.Drawing.Point(340, 97);
+            this.lblmensajeAmin.Location = new System.Drawing.Point(255, 79);
+            this.lblmensajeAmin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblmensajeAmin.Name = "lblmensajeAmin";
-            this.lblmensajeAmin.Size = new System.Drawing.Size(0, 17);
+            this.lblmensajeAmin.Size = new System.Drawing.Size(0, 13);
             this.lblmensajeAmin.TabIndex = 0;
             // 
             // lblAdmin
             // 
             this.lblAdmin.AutoSize = true;
-            this.lblAdmin.Location = new System.Drawing.Point(245, 165);
+            this.lblAdmin.Location = new System.Drawing.Point(184, 134);
+            this.lblAdmin.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblAdmin.Name = "lblAdmin";
-            this.lblAdmin.Size = new System.Drawing.Size(95, 17);
+            this.lblAdmin.Size = new System.Drawing.Size(70, 13);
             this.lblAdmin.TabIndex = 1;
             this.lblAdmin.Text = "Administrador";
             // 
             // Admin
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(644, 360);
+            this.ClientSize = new System.Drawing.Size(483, 292);
             this.Controls.Add(this.lblAdmin);
             this.Controls.Add(this.lblmensajeAmin);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Admin";
             this.Text = "Admin";
+            this.Load += new System.EventHandler(this.Admin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
